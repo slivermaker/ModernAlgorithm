@@ -3,6 +3,7 @@ https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/更换源
 
 
 ### conda操作
+> https://gengzhige-essay.readthedocs.io/docs/01%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/1-2%20conda%E7%9A%84%E4%BD%BF%E7%94%A8.html
 
 ```
 1. conda --version #查看conda版本，验证是否安装
@@ -22,6 +23,8 @@ https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/更换源
 15. conda remove package #删除当前环境中的包
 16. conda env remove -n env_name #采用第10条的方法删除环境失败时，可采用这种方法
 ```
+
+
 ## 用vscode打开服务器时需要密码
 
 > jupyter notebook list
