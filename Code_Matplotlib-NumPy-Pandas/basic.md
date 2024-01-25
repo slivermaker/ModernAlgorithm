@@ -1,5 +1,6 @@
 ### anaconda
-https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/更换源
+https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
+更换源
 
 
 ### conda操作
